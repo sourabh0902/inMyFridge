@@ -2,6 +2,8 @@
 
 A beautiful, intuitive web application that helps you discover recipes based on ingredients you have in your fridge. Simply add your available ingredients, and let the app suggest delicious recipes you can make!
 
+Live Website: [https://in-my-fridge-f6ik.vercel.app/](https://in-my-fridge-f6ik.vercel.app/)
+
 ![App Screenshot](./public/images/ss.png)
 
 ## ✨ Features
