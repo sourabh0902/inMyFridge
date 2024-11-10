@@ -2,7 +2,7 @@
 
 A beautiful, intuitive web application that helps you discover recipes based on ingredients you have in your fridge. Simply add your available ingredients, and let the app suggest delicious recipes you can make!
 
-![App Screenshot](https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&q=80&w=1200&h=400)
+![App Screenshot](./public/images/ss.png)
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ A beautiful, intuitive web application that helps you discover recipes based on 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/whats-in-my-fridge.git
+   git clone https://github.com/sourabh0902/inMyFridge
    ```
 
 2. **Install dependencies**
